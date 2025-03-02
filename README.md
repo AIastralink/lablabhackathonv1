@@ -9,9 +9,9 @@ The **AI-Driven Smart Hotspot** is an Android-based application designed to enha
 - **Predictive Maintenance:** AI detects weak signals, predicts dropouts, and **optimizes performance in real time**.
 - **Energy Efficiency:** Smart power management **reduces battery consumption** when acting as an access point.
 - **Security & Fair Usage:** Implements **authentication, encryption, and bandwidth allocation**.
-
-
-
+![image](https://github.com/user-attachments/assets/6cb09282-ff15-459d-89fd-1e37cfed9dff)
+![image](https://github.com/user-attachments/assets/e12081c0-8c85-47d1-bbd5-581ac95c4150)
+![image](https://github.com/user-attachments/assets/d241a733-a817-419d-bf89-1b283294b481)
 
 
 ## 🛠 Tech Stack

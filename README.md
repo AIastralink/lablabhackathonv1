@@ -11,7 +11,7 @@ The **AI-Driven Smart Hotspot** is an Android-based application designed to enha
 - **Security & Fair Usage:** Implements **authentication, encryption, and bandwidth allocation**.
 
 
-<!-- add image -->
+
 
 
 ## 🛠 Tech Stack
@@ -33,11 +33,11 @@ The **AI-Driven Smart Hotspot** is an Android-based application designed to enha
 - **Battery-Aware AI Model** – Smartly optimizes power consumption.
 
 ## 📌 How It Works
-1️⃣ **User installs the app** and connects to a public network.
-2️⃣ **Device intelligently switches between client mode & access point mode**, extending the network to others.
-3️⃣ **AI determines the best access point** for users, optimizing performance and load balancing.
-4️⃣ **Real-time monitoring tracks network health**, predicting failures and suggesting solutions.
-5️⃣ **Smart power management minimizes energy drain**, ensuring sustainability.
+- 1️⃣ User installs the app and connects to a public network.
+- 2️⃣ Device intelligently switches between client mode & access point mode, extending the network to others.
+- 3️⃣ AI determines the best access point for users, optimizing performance and load balancing.
+- 4️⃣ Real-time monitoring tracks network health, predicting failures and suggesting solutions.
+- 5️⃣ Smart power management minimizes energy drain, ensuring sustainability.
 
 ## 📊 Expected Impact
 - **50% increase in network coverage** in public institutions without new infrastructure.

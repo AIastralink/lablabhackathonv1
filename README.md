@@ -49,7 +49,7 @@ The **AI-Driven Smart Hotspot** is an Android-based application designed to enha
 ### **Installation**
 1. Clone this repository:
    ```bash
-   git clone h[ttps://github.com/your-repo/ai-smart-hotspot.git](https://github.com/AIastralink/lablabhackathonv1.git)
+   git clone https://github.com/AIastralink/lablabhackathonv1.git
    ```
 2. Open the project in **Android Studio**.
 3. Install dependencies and run the application on an **Android device/emulator**.
